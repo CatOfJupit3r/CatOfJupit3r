@@ -1,1 +1,1 @@
-![Leetcode Stats](https://leetcode.com/CatOfJupit3r/)
+![chips-potato-chips.gif)
