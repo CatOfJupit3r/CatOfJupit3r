@@ -1,1 +1,1 @@
-![chips-potato-chips.gif](chips-potato-chips-shmall-transparent-background.gif)
+![chips-potato-chips.gif](chips-potato-chips-shmall-transparent_background.gif)
