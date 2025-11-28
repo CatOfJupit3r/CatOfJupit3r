@@ -427,7 +427,7 @@
     .monaco-list-row {
         .plain.match,
         .filematch {
-            font-family: Monocraft "Geist Mono";
+            font-family: Monocraft, "Geist Mono";
         }
     }
 }
@@ -449,8 +449,12 @@
 }
 
 .suggest-widget {
-    font-family: "Monocraft" "Geist Mono", monospace !important;
+    font-family: "Monocraft", "Geist Mono", monospace !important;
     .monaco-list-rows .contents .main {
         font-size: 13px !important;
     }
+}
+
+.tabs-and-actions-container .monaco-icon-label-container {
+    align-content: center;
 }
